@@ -41,10 +41,8 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 </br>
-# 📊 GitHub Stats:
+<h3>📊 GitHub Stats</h3>
 
-</br>
-</br>
 ![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=radical&hide_border=false)
