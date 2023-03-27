@@ -22,17 +22,31 @@
 ### 🛠 &nbsp;Tech & Tools I work with
 ---
 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</br>
+
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
-
-
+</br>
+# 📊 GitHub Stats:
 
 </br>
+</br>
+![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=radical&hide_border=false)
+<br/>
+
