@@ -43,6 +43,5 @@
 </br>
 <h3>📊 GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=ayu-mirage&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=dark&hide_border=true)<br/>
