@@ -1,7 +1,11 @@
+![profile](/jpgNisargPatel.jpg)
+
+
+
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">A passionate developer from India</h3>
-<!-- <img alt="Coding" width="auto" src="https://raw.githubusercontent.com/ptlnisarg31/ptlnisarg31/main/jpgNisarg%20Patel.jpg"> -->
-![banner2](/jpgNisargPatel.jpg)
+
+
 
 </br>
 </br>
