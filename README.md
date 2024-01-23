@@ -45,4 +45,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=dark&hide_border=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=ptlnisarg31&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
