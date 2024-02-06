@@ -43,6 +43,9 @@
 </br>
 <h3>📊 GitHub Stats</h3>
 
+<img src="https://api.vaunt.dev/v1/github/entities/ptlnisarg31/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
+ 
+
 ![](https://github-readme-stats.vercel.app/api?username=ptlnisarg31&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=ptlnisarg31&theme=nord&hide_border=true)<br/>-->
 
